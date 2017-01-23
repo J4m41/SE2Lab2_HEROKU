@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MattiaSalnitri/SE2Lab2_HEROKU.git"
+    "url": "git+https://github.com/J4m41/SE2Lab2_HEROKU.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MattiaSalnitri/SE2Lab2_HEROKU/issues"
+    "url": "https://github.com/J4m41/SE2Lab2_HEROKU/issues"
   },
-  "homepage": "https://github.com/MattiaSalnitri/SE2Lab2_HEROKU#readme",
+  "homepage": "https://github.com/J4m41/SE2Lab2_HEROKU#readme",
   "dependencies": {
     "express": "^4.14.0"
   }
