@@ -1,7 +1,7 @@
 {
-  "name": "SE2Lab2_HEROKU",
+  "name": "herokutry",
   "version": "1.0.0",
-  "description": "",
+  "description": "First try of app deployment with heroku",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/J4m41/SE2Lab2_HEROKU.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "gianma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/J4m41/SE2Lab2_HEROKU/issues"
